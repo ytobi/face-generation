@@ -1,6 +1,6 @@
-# Dog Breed Classifier
+# Face Generation
 
-In this project, I built generative adversarial networks(GAN) to generate new images of faces. The project is part of fulfillment for a nanodegree at Udacity.
+In this project, I built a generative adversarial networks(GAN) to generate new images of faces. The project is part of fulfillment for a nanodegree at Udacity.
 
 # Installation
 
